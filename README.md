@@ -1,4 +1,4 @@
 gbkpp
 =====
 
-A parser in c++ for the genbank file format.
+A parser and interface in c++ for the genbank file format.
